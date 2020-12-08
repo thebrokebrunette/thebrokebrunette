@@ -3,14 +3,15 @@ layout: default
 ---
 <html>
   	<head>
-      		<meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1">
-          <title>Example Site</title>
-          <link rel="stylesheet" href="site.css">
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Example Site</title>
+            <link rel="stylesheet" href="site.css">
+    </head>
+  <body>      
         <div class="posts">
           {% for post in site.posts %}
             <article class="post">
-
               <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
               <div class="entry">
@@ -21,5 +22,5 @@ layout: default
             </article>
           {% endfor %}
         </div>
-      </head>
+  </body>
   </html>
