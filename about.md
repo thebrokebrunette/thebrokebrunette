@@ -2,12 +2,6 @@
 layout: default
 title: Howdy, I'm The Broke Brunette!
 ---
-<html>
-  	<head>
-<link rel="stylesheet" href="index.html">
-      </head>
-  </html>
-
 
 Welcome to my blog! This is my space to discuss all things personal finance!
 
