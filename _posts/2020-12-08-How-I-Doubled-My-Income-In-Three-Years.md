@@ -7,7 +7,7 @@ title: How I Doubled My Income In Three Years
 
 I started working when I was 20 years old, the summer before my junior year in college. I had worked multiple jobs in high school and early college, but I did not stick to one job for long until this particular summer. During this summer, I worked three different jobs. I worked as a housekeeper for an elderly lady in my college town, as a cashier at Freddy’s Frozen Custard, and as a Sunday school teacher at my church. As the summer ended and my fall classes started, I quit my job as a housekeeper but kept my other two jobs.
 
-I worked about 15 hour a week. Although this did not allow for a hefty paycheck, it was what I could manage while balancing a full course load in school.
+I worked about 15 hours a week. Although this did not allow for a hefty paycheck, it was what I could manage while balancing a full course load in school.
 	Salary: 8.00/hour – Cashier at Freddy’s Frozen Custard
   10.00/hour – Sunday school teacher at my church
 
