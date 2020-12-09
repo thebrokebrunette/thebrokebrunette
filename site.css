@@ -9,6 +9,9 @@ p {
 h1 {
 	color: #000000;
 	  text-align: center;
+  width: 300px;
+  padding: 25px;
+  box-sizing: border-box;
 
 }
 body {
