@@ -21,12 +21,12 @@ This was a large step in
 This was the first time in a while that I had felt excited about working. I felt like I was moving into a position where I was able to show my strengths in a more professional setting.
 	Salary: 14.50/hour – Wellness & Engagement Coordinator at retirement community
 
-In November 2020, I accepted a job post-graduation.
+In November 2020, I accepted a job post-graduation. I am so excited for this new oppurtunity!
   Salary: 21.15/hour
 
 Here is how I did it:
 
-1. I took risks.
+1. I took risks. It was scary moving from my safe, fast-food job that worked well with my schedule to a new job that might require more time from me. Since I was taking classes, I had to put my education first no matter what financial position I was in. I took a risk and I am so grateful that I did!
 
 2. I made a thoughtful impact in my supervision’s eyes. Without my supervisor knowing my work ethic and empathy for the residents, I would not have been chosen to assist with the activities department. I did the basic things all employees strive to do: show up on time, lend a hand to others, be professional, try your best, and care for the residents/customers/clients.
 
